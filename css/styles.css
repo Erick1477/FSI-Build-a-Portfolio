@@ -1,0 +1,23 @@
+h1 {
+color: rgb(25, 0, 255);
+}
+body{
+background-color: indianred;
+}
+h2{
+color: beige;
+}
+h3 {
+color: beige;
+}
+p{
+color: beige;
+}
+li{
+color: beige;
+}
+img {
+    height: 300px;
+    border-radius: 25px;
+    border: 1px black solid;
+}
